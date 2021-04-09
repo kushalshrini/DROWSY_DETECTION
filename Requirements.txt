@@ -1,0 +1,6 @@
+matplotlib  3.3.4
+opencv-python 4.5.1.48
+pygame	2.0.1	
+pyparsing	2.4.7	
+read	0.0.2	
+scikit-image	0.18.1	
